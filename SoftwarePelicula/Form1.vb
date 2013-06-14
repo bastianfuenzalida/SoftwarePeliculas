@@ -70,6 +70,9 @@
         ComboBox1.Items.Add("Romantica")
         ComboBox1.Items.Add("Drama")
         ComboBox1.Items.Add("Comedia")
+        ComboBox1.Items.Add("Docuental")
+        ComboBox1.Items.Add("Saga")
+        ComboBox1.Items.Add("Serie")
     End Sub
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
