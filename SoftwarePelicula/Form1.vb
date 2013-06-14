@@ -71,7 +71,7 @@
         ComboBox1.Items.Add("Drama")
         ComboBox1.Items.Add("Comedia")
         ComboBox1.Items.Add("Docuental")
-        ComboBox1.Items.Add("Saga")
+
 
     End Sub
 
